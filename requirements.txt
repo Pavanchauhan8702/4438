@@ -3,3 +3,6 @@ sklearn
 matplotlib
 pandas 
 numpy
+linear_model
+preprocessing
+pickle
